@@ -1,2 +1,2 @@
-# New-Api-App
-New App using flutter & News_Api
+# News-Api-App
+News App using flutter & News_Api
